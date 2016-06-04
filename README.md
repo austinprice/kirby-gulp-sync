@@ -3,7 +3,7 @@ A simple Gulp environment for Kirby CMS with BrowserSync and basic compiling tas
 
 # Installation
 1. Download the latest version of [Kirby CMS](https://getkirby.com/downloads).
-2. Download this project and drop package.json and gulpfile.js in the root folder of your Kirby project.
+2. Download this project and drop **package.json** and **gulpfile.js** in the root folder of your Kirby project.
 3. Install all required packages
 ```
 npm install
