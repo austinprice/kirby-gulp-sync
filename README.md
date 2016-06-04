@@ -1,4 +1,4 @@
-# cms-gulp-sync
+# kirby-gulp-sync
 A simple Gulp environment for Kirby CMS with BrowserSync and basic compiling tasks.
 
 # Installation
