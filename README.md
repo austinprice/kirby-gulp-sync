@@ -24,5 +24,5 @@ gulp build
 ```
 This will build your final project for deployment. This includes compiling Sass, optimitizing images, minifying CSS and adding browser prefixes.
 
-#### Other Notes
+# Other Notes
 The gulpfile.js assumes that your Sass will be stored in /assets/sass/. If you set up your Sass files differently, update the src for the styles task in gulpfile.js.
